@@ -1,0 +1,96 @@
+[01-Dec-2020 04:27:35 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/login/index.php on line 1
+[01-Dec-2020 04:27:35 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/login/index.php on line 1
+[01-Dec-2020 04:27:35 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/login/index.php on line 49
+[02-Dec-2020 04:55:01 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 1
+[02-Dec-2020 04:55:01 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 1
+[02-Dec-2020 04:55:01 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 52
+[02-Dec-2020 04:55:32 UTC] PHP Warning:  include(../../../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 1
+[02-Dec-2020 04:55:32 UTC] PHP Warning:  include(): Failed opening '../../../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 1
+[02-Dec-2020 04:55:32 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 52
+[02-Dec-2020 04:55:39 UTC] PHP Warning:  include(../../../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 1
+[02-Dec-2020 04:55:39 UTC] PHP Warning:  include(): Failed opening '../../../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 1
+[02-Dec-2020 04:55:39 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/index.php on line 52
+[06-Dec-2020 00:16:42 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:16:42 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:16:42 UTC] PHP Warning:  Use of undefined constant sub_reg - assumed 'sub_reg' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 51
+[06-Dec-2020 00:18:21 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:18:21 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:18:21 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:18:21 UTC] PHP Notice:  Undefined index: d_id in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:18:21 UTC] PHP Warning:  Use of undefined constant sub_reg - assumed 'sub_reg' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 129
+[06-Dec-2020 00:19:37 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:19:37 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:19:37 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:19:37 UTC] PHP Notice:  Undefined index: d_id in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:19:37 UTC] PHP Warning:  Use of undefined constant sub_reg - assumed 'sub_reg' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 129
+[06-Dec-2020 00:22:06 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:22:06 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:22:06 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:22:06 UTC] PHP Notice:  Undefined index: d_id in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:22:06 UTC] PHP Warning:  Use of undefined constant sub_reg - assumed 'sub_reg' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 129
+[06-Dec-2020 00:22:06 UTC] PHP Warning:  Use of undefined constant s_id - assumed 's_id' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 135
+[06-Dec-2020 00:22:06 UTC] PHP Notice:  Undefined variable: con in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 161
+[06-Dec-2020 00:22:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 161
+[06-Dec-2020 00:22:43 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:22:43 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:22:43 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:22:43 UTC] PHP Notice:  Undefined index: d_id in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:22:43 UTC] PHP Warning:  Use of undefined constant sub_reg - assumed 'sub_reg' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 129
+[06-Dec-2020 00:23:08 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:23:08 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 1
+[06-Dec-2020 00:23:08 UTC] PHP Warning:  Use of undefined constant d_id - assumed 'd_id' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:23:08 UTC] PHP Notice:  Undefined index: d_id in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 98
+[06-Dec-2020 00:23:08 UTC] PHP Warning:  Use of undefined constant sub_reg - assumed 'sub_reg' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 129
+[06-Dec-2020 00:23:08 UTC] PHP Warning:  Use of undefined constant s_id - assumed 's_id' (this will throw an Error in a future version of PHP) in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 135
+[06-Dec-2020 00:23:08 UTC] PHP Notice:  Undefined variable: con in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 161
+[06-Dec-2020 00:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php:161
+Stack trace:
+#0 {main}
+  thrown in /home/w4oqyyfjunbn/public_html/dreamsway.in/mobi/login/signup.php on line 161
+[28-Mar-2021 01:54:40 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:54:40 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:54:40 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:55:04 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:55:04 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:55:04 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:55:04 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 49
+[28-Mar-2021 01:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 66
+[28-Mar-2021 01:56:05 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:56:05 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:56:05 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:56:23 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:56:23 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:56:23 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:56:23 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 49
+[28-Mar-2021 01:56:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 66
+[28-Mar-2021 01:58:39 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:58:39 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:58:39 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:58:53 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:58:53 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:58:53 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:58:53 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 49
+[28-Mar-2021 01:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 66
+[28-Mar-2021 01:59:31 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:59:31 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:59:31 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:59:37 UTC] PHP Warning:  include(../database_connect.php): failed to open stream: No such file or directory in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:59:37 UTC] PHP Warning:  include(): Failed opening '../database_connect.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 1
+[28-Mar-2021 01:59:37 UTC] PHP Warning:  Use of undefined constant sub_login - assumed 'sub_login' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 47
+[28-Mar-2021 01:59:37 UTC] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 49
+[28-Mar-2021 01:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dje3yjeopcbi/public_html/dreamsway.in/mobi/login/forget_password.php on line 66
